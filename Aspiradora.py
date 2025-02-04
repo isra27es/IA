@@ -1,5 +1,5 @@
 # Inteligencia artificial
-# Israel Espinosa López
+# Israel Espinosa
 # 2025-01-30
 
 import tkinter as tk
